@@ -5,19 +5,19 @@ Welcome to the Blockchain for Developers DeCal's midterm assignment. You'll be d
 
 ###### Project Partner 1
 
-Name:
+Name: Ameena Golding
 
-SID:
+SID: 26422946
 
-Email:
+Email: agolding@berkeley.edu
 
 ###### Project Partner 2
 
-Name:
+Name: Gustavo De Leon
 
-SID:
+SID: 26408355
 
-Email:
+Email: gdeleon@berkeley.edu
 
 ###### Project Partner 3 (if any)
 
